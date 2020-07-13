@@ -1,0 +1,18 @@
+{
+  "pipelineId" : "producered242987-d280-49d1-83eb-b4b6fa63589f",
+  "title" : "producer",
+  "description" : "",
+  "created" : 1594657454421,
+  "lastModified" : 1594658162136,
+  "creator" : "admin",
+  "lastModifier" : "admin",
+  "lastRev" : "0",
+  "uuid" : "3476cc57-8d6b-40e3-89ad-a1cc3cbbbc06",
+  "valid" : true,
+  "metadata" : {
+    "labels" : [ ]
+  },
+  "name" : "producered242987-d280-49d1-83eb-b4b6fa63589f",
+  "sdcVersion" : "3.7.1",
+  "sdcId" : "3ae8ab63-c525-11ea-a2df-976ed3b1be8f"
+}

@@ -1,0 +1,16 @@
+{
+  "pipelineId" : "consumere5f49c5e-1d11-4635-a7cb-6b11eb4052f8",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "EDITED",
+  "message" : "Pipeline edited",
+  "timeStamp" : 1594657742270,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "consumere5f49c5e-1d11-4635-a7cb-6b11eb4052f8"
+}

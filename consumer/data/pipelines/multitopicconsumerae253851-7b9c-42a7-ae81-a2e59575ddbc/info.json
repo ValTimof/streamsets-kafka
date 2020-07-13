@@ -1,0 +1,18 @@
+{
+  "pipelineId" : "multitopicconsumerae253851-7b9c-42a7-ae81-a2e59575ddbc",
+  "title" : "multitopic-consumer",
+  "description" : "",
+  "created" : 1594657766818,
+  "lastModified" : 1594657806615,
+  "creator" : "admin",
+  "lastModifier" : "admin",
+  "lastRev" : "0",
+  "uuid" : "fd22de8b-227c-4dcc-bb15-6647f0f78366",
+  "valid" : true,
+  "metadata" : {
+    "labels" : [ ]
+  },
+  "name" : "multitopicconsumerae253851-7b9c-42a7-ae81-a2e59575ddbc",
+  "sdcVersion" : "3.7.1",
+  "sdcId" : "dad0f3b4-c525-11ea-9448-1d429fe6a327"
+}

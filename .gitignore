@@ -7,4 +7,5 @@ out/
 lombok.config
 test-results/
 
+offset.json
 pipelineStateHistory.json

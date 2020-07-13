@@ -1,0 +1,18 @@
+{
+  "pipelineId" : "consumere5f49c5e-1d11-4635-a7cb-6b11eb4052f8",
+  "title" : "consumer",
+  "description" : "",
+  "created" : 1594657742190,
+  "lastModified" : 1594657855424,
+  "creator" : "admin",
+  "lastModifier" : "admin",
+  "lastRev" : "0",
+  "uuid" : "582a905d-f64d-4004-a731-34c3edf680d9",
+  "valid" : true,
+  "metadata" : {
+    "labels" : [ ]
+  },
+  "name" : "consumere5f49c5e-1d11-4635-a7cb-6b11eb4052f8",
+  "sdcVersion" : "3.7.1",
+  "sdcId" : "dad0f3b4-c525-11ea-9448-1d429fe6a327"
+}

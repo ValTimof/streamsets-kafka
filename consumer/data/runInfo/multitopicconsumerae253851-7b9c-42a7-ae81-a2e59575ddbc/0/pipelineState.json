@@ -1,0 +1,16 @@
+{
+  "pipelineId" : "multitopicconsumerae253851-7b9c-42a7-ae81-a2e59575ddbc",
+  "rev" : "0",
+  "user" : "admin",
+  "status" : "EDITED",
+  "message" : "Pipeline edited",
+  "timeStamp" : 1594657766868,
+  "attributes" : {
+    "IS_REMOTE_PIPELINE" : false
+  },
+  "executionMode" : "STANDALONE",
+  "metrics" : null,
+  "retryAttempt" : 0,
+  "nextRetryTimeStamp" : 0,
+  "name" : "multitopicconsumerae253851-7b9c-42a7-ae81-a2e59575ddbc"
+}
